@@ -5,10 +5,10 @@ This repository leverages a customized implementation based on Hugging Face Tran
 - Python 3.12.0
 To start, create a new environment and install:  
 `
-conda create -n SDTroll python=3.12.0  
-conda activate SDTroll  
-cd SDTroll  
-pip install requirement.txt  
+conda create -n SDTroll python=3.12.0   && \
+conda activate SDTroll   && \
+cd SDTroll   && \
+pip install requirement.txt   && \
 `
 
 ## Publicaton
