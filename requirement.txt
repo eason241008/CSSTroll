@@ -1,0 +1,10 @@
+# Core ML & Deep Learning
+torch==2.6.0+cu126
+transformers==4.49.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+tokenizers==0.21.0
+jieba==0.42.1
+tqdm==4.66.5
