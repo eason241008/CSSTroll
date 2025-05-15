@@ -7,9 +7,9 @@ This repository leverages a customized implementation based on Hugging Face Tran
 To start, create a new environment and install:
 
 ```bash
-conda create -n SDTroll python=3.12.0
-conda activate SDTroll
-cd SDTroll
+conda create -n CSSTroll python=3.12.0
+conda activate CSSTroll
+cd CSSTroll
 pip install requirements.txt
 ```
 ## Publicaton
